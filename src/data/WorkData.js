@@ -93,4 +93,14 @@ export const data = [
     demo: "https://stop-watch-w.netlify.app/",
     github: "https://github.com/Shohag219/stop-watch",
   },
+  {
+    id: 10,
+    name: "Clock",
+    image: "https://i.ibb.co/RvtpSbV/ghori.png",
+    description: " A Simple Analog and Digital Clock",
+    tags: ["HTML", "CSS", "js"],
+
+    demo: "https://ghori.netlify.app/",
+    github: "https://github.com/Shohag219/Clock",
+  },
 ];
