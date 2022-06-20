@@ -103,4 +103,14 @@ export const data = [
     demo: "https://ghori.netlify.app/",
     github: "https://github.com/Shohag219/Clock",
   },
+  {
+    id: 11,
+    name: "Profile",
+    image: "https://i.ibb.co/zmR7WB4/Screenshot-136.png",
+    description: " A Simple Profile Design",
+    tags: ["HTML", "CSS"],
+
+    demo: "https://profile-design.netlify.app/",
+    github: "https://github.com/Shohag219/Profile-design",
+  },
 ];
